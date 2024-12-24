@@ -15,8 +15,14 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikgirkar30&layout=compact" alt="top-langs" width="500" height="auto"/>
 </p>
+
 ## 🏆 Some of My Projects
 
+- [My Portfolio](https://pratik-girkar-portfolio.onrender.com)
+
+- [Project 1: Numeric Conversion](https://pratikgirkar30.github.io/)
+
+- [Project 2: Expression Conversion](https://expressionconversion.netlify.app/)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
