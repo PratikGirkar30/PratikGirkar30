@@ -18,7 +18,7 @@
 
 ## 🏆 Some of My Projects
 
-- [My Portfolio](https://pratik-girkar-portfolio.onrender.com)
+- [My Portfolio](https://pratikgirkar30.github.io/MyPortfolio/)
 
 - [Project 1: Numeric Conversion](https://pratikgirkar30.github.io/)
 
