@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://pratikgirkar30.github.io/MyPortfolio/static/img/profile.jpeg" 
-     alt="Pratik's Profile Picture" 
-     style="width: 150px; height: 150px; ">
   <h1 align="center">Hi, I'm Pratik Girkar! 👋</h1>
   <p align="center">A passionate programmer and aspiring web developer.</p>
 </div>
