@@ -22,45 +22,43 @@
 
 ---
 
-## 💻 Languages & Tools ✨
+## 🧠 Programming Languages
+| Language | Logo |
+|---------|------|
+| C | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/> |
+| C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/> |
+| Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> |
+| Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> |
+| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> |
 
-Here are some of the technologies I have used and learned.
+## 🌐 Web Technologies
 
-<p align="center">
-  <a href="https://devicon.dev/show/cplusplus-original" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  </a>
-  <a href="https://devicon.dev/show/java-original" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  </a>
-  <a href="https://devicon.dev/show/c-original" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  </a>
-  <a href="https://devicon.dev/show/python-original" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  </a>
-  <a href="https://devicon.dev/show/html5-original" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
-  </a>
-  <a href="https://devicon.dev/show/css3-original" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  </a>
-  <a href="https://devicon.dev/show/javascript-original" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  </a>
-  <a href="https://devicon.dev/show/flask-original" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="45" height="45"/>
-  </a>
-  <a href="https://devicon.dev/show/mysql-original" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  </a>
-  <a href="https://devicon.dev/show/vscode-original" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  </a>
-</p>
+| Technology | Logo |
+|-----------|------|
+| HTML5 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> |
+| CSS3 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> |
+| JavaScript | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> |
+
+## ⚙️ Frameworks
+
+| Framework | Logo |
+|----------|------|
+| Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> |
+
+## 🗄️ Databases
+
+| Database | Logo |
+|---------|------|
+| MySQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> |
+| MongoDB | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> |
+
+## 🛠️ Tools
+
+| Tool | Logo |
+|-----|------|
+| VS Code | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> |
 
 ---
-
 ## 🏆 My Projects 💡
 
 | Project Name | Live Demo |
@@ -68,7 +66,7 @@ Here are some of the technologies I have used and learned.
 | **My Portfolio** | [Live Demo](https://pratikgirkar30.github.io/MyPortfolio/) |
 | **Numeric Conversion** | [Live Demo](https://pratikgirkar30.github.io/) |
 | **Expression Conversion** | [Live Demo](https://expressionconversion.netlify.app/) |
-
+| **Complaint Portal** | [Live Demo](https://complaint-portal-sigma.vercel.app/) |
 ---
 
 ## 🎉 Let's Connect 🌐
