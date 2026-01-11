@@ -44,6 +44,7 @@
 | Framework | Logo |
 |----------|------|
 | Flask | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/> |
+| Django| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/> |
 
 ## 🗄️ Databases
 
